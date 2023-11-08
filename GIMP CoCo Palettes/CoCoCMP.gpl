@@ -1,0 +1,68 @@
+GIMP Palette
+Name: CoCoCMP
+Columns: 16
+#
+  0   0   0	#000000_Black
+  0  76   0	#004c00_Dark Blue
+  0  67   0	#004300_Dark Green
+ 10  49   0	#0a3100_Dark Cyan
+ 47  27   0	#2f1b00_Dark Red
+ 85   1   0	#550100_Dark Magenta
+108   0   0	#6c0000_Brown
+119   0   6	#770006_Dark Grey
+113   0  75	#71004b_Medium Blue
+ 92   0 139	#5c008b_Bright Blue
+ 59   0 184	#3b00b8_Light Blue/Cyan
+ 17   0 202	#1100ca_Light Blue
+  0  20 153	#001499_Indigo
+  0  44  98	#002c62_Medium Blue/Purple
+  0  64  17	#004011_Medium Sky Blue
+  0  75   0	#004b00_Medium Peacock
+ 45  45  45	#2d2d2d_Medium Green
+  6 152   0	#069800_Medium Green/Cyan
+ 40 143   0	#288f00_Bright Green
+ 83 125   0	#537d00_Medium Yellow/Green
+120 103   0	#786700_Light Yellow/Green
+160  76   0	#a04c00_Light Green/Cyan
+182  52   2	#b63402_Bright Yellow/Green
+195  34  76	#c3224c_Light Green
+189  22 147	#bd1693_Pale Green/Cyan
+168  20 213	#a814d5_Peacock
+136  28 254	#881cfe_Light Green/Cyan
+ 94  44 255	#5e2cff_Bright Cyan
+ 16  94 233	#105ee9_Light Peacock
+  0 118 178	#0076b2_Pale Peacock
+  0 139  96	#008b60_Pale Green/Cyan
+  0 150  24	#009618_Light Cyan
+116 116 116	#747474_Medium Red
+ 65 215  20	#41d714_Medium Red/Magenta
+ 98 207   0	#62cf00_Yellow/Orange
+142 189   0	#8ebd00_Light Red
+180 167   0	#b4a700_Bright Red
+221 140   1	#dd8c01_Light Red/Magenta
+245 115  58	#f5733a_Orange
+254  96 133	#fe6085_Pale Red/Magenta
+253  83 206	#fd53ce_Medium Blue/Magenta
+233  80 255	#e950ff_Blue/Purple
+201  88 255	#c958ff_Light Magenta
+158 103 255	#9e67ff_Purple
+ 78 154 255	#4e9aff_Light Purple
+ 54 179 247	#36b3f7_Bright Magenta
+ 38 201 163	#26c9a3_Pale Blue/Magenta
+ 43 213  88	#2bd558_Pale Purple
+253 253 254	#fdfdfe_Medium Yellow
+136 232  90	#88e85a_Light Yellow
+161 224  63	#a1e03f_Light Yellow/Green
+190 210  56	#bed238_Pale Yellow/Green
+216 195  66	#d8c342_Light Yellow/Orange
+241 177  97	#f1b161_Medium Yellow
+254 160 141	#fea08d_Bright Yellow
+254 149 191	#fe95bf_Pale Yellow
+253 142 241	#fd8ef1_Light Grey
+239 142 255	#ef8eff_Pale Blue
+216 149 255	#d895ff_Pale Cyan
+185 161 255	#b9a1ff_Pale Blue/Cyan
+134 196 255	#86c4ff_Pale Red
+120 212 242	#78d4f2_Pale Magenta
+113 226 182	#71e2b6_Very Pale Yellow
+255 255 255	#ffffff_White

@@ -1,0 +1,68 @@
+GIMP Palette
+Name: CoCoRGB
+Columns: 16
+#
+  0   0   0	#000000_Black
+  0   0  85	#000055_Dark Blue
+  0  85   0	#005500_Dark Green
+  0  85  85	#005555_Dark Cyan
+ 85   0   0	#550000_Dark Red
+ 85   0  85	#550055_Dark Magenta
+ 85  85   0	#555500_Brown
+ 85  85  85	#555555_Dark Grey
+  0   0 170	#0000aa_Medium Blue
+  0   0 255	#0000ff_Bright Blue
+  0  85 170	#0055aa_Light Blue/Cyan
+  0  85 255	#0055ff_Light Blue
+ 85   0 170	#5500aa_Indigo
+ 85   0 255	#5500ff_Medium Blue/Purple
+ 85  85 170	#5555aa_Medium Sky Blue
+ 85  85 255	#5555ff_Medium Peacock
+  0 170   0	#00aa00_Medium Green
+  0 170  85	#00aa55_Medium Green/Cyan
+  0 255   0	#00ff00_Bright Green
+  0 255  85	#00ff55_Medium Yellow/Green
+ 85 170   0	#55aa00_Light Yellow/Green
+ 85 170  85	#55aa55_Light Green/Cyan
+ 85 255   0	#55ff00_Bright Yellow/Green
+ 85 255  85	#55ff55_Light Green
+  0 170 170	#00aaaa_Pale Green/Cyan
+  0 170 255	#00aaff_Peacock
+  0 255 170	#00ffaa_Light Green/Cyan
+  0 255 255	#00ffff_Bright Cyan
+ 85 170 170	#55aaaa_Light Peacock
+ 85 170 255	#55aaff_Pale Peacock
+ 85 255 170	#55ffaa_Pale Green/Cyan
+ 85 255 255	#55ffff_Light Cyan
+170   0   0	#aa0000_Medium Red
+170   0  85	#aa0055_Medium Red/Magenta
+170  85   0	#aa5500_Yellow/Orange
+170  85  85	#aa5555_Light Red
+255   0   0	#ff0000_Bright Red
+255   0  85	#ff0055_Light Red/Magenta
+255  85   0	#ff5500_Orange
+255  85  85	#ff5555_Pale Red/Magenta
+170   0 170	#aa00aa_Medium Blue/Magenta
+170   0 255	#aa00ff_Blue/Purple
+170  85 170	#aa55aa_Light Magenta
+170  85 255	#aa55ff_Purple
+255   0 170	#ff00aa_Light Purple
+255   0 255	#ff00ff_Bright Magenta
+255  85 170	#ff55aa_Pale Blue/Magenta
+255  85 255	#ff55ff_Pale Purple
+170 170   0	#aaaa00_Medium Yellow
+170 170  85	#aaaa55_Light Yellow
+170 255   0	#aaff00_Light Yellow/Green
+170 255  85	#aaff55_Pale Yellow/Green
+255 170   0	#ffaa00_Light Yellow/Orange
+255 170  85	#ffaa55_Medium Yellow
+255 255   0	#ffff00_Bright Yellow
+255 255  85	#ffff55_Pale Yellow
+170 170 170	#aaaaaa_Light Grey
+170 170 255	#aaaaff_Pale Blue
+170 255 170	#aaffaa_Pale Cyan
+170 255 255	#aaffff_Pale Blue/Cyan
+255 170 170	#ffaaaa_Pale Red
+255 170 255	#ffaaff_Pale Magenta
+255 255 170	#ffffaa_Very Pale Yellow
+255 255 255	#ffffff_White
