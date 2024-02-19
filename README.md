@@ -13,6 +13,10 @@ The primary purpose of CoCoSC is to output compiled sprites, for direct use in y
 
 Currently, CoCoSC only supports 4bpp (16-color) graphics - therefore its only target system is the Color Computer 3.
 
+## Is there any documentation on how to use CoCoSC?
+
+At the moment, there is no written documentation, however the basic use of the tool was covered in an episode of 'The CoCoTECH! Show' a little while back. The episode may be found here - https://www.youtube.com/watch?v=IJbG_HDidaE
+
 ## How do I get started? The Compile and Test buttons are greyed-out.
 
 To take full advantage of CoCoSC's capabilities, you must pair it with William Astle's LWASM utility (http://www.lwtools.ca/) and the 'Color Computer 3' VCC emulator (https://github.com/VCCE/VCC). The LWASM utility is used as a cross-assembler to assemble the graphics source code into .BIN files. The VCC emulator is then used to directly test those .BIN files.
