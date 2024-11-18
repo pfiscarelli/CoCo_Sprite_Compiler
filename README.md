@@ -1,5 +1,7 @@
 # CoCo Sprite Compiler (CoCoSC)
 
+![image](https://github.com/user-attachments/assets/b2968d00-96ca-45a1-844b-8dbb48e6225a)
+
 ***
 ## What does CoCoSC do?
 
